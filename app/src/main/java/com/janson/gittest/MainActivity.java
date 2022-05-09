@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println(a+b+"");
     }
 
+    public void bb(){
+        System.out.println("bb");
+    }
+
 }
