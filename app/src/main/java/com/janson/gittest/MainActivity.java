@@ -15,17 +15,8 @@ public class MainActivity extends AppCompatActivity {
     public void base(){
         int a = 2;
         int b = 3;
-        System.out.println(a+b+"");
+        System.out.println(a+b+"AAA");
     }
 
-    public void bb(){
-        System.out.println("bb");
-    }
-
-    public void aa(){
-        System.out.println("aa");
-        System.out.println("bb");
-        System.out.println("ccAAA");
-    }
 
 }
