@@ -13,9 +13,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void base(){
-        int a = 2;
+        int aa = 2;
         int b = 3;
-        System.out.println(a+b+"");
+        System.out.println(aa+b+"");
+    }
+
+    public  void a(){
+        System.out.println("a");
+
     }
 
 }
