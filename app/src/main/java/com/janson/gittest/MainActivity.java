@@ -22,4 +22,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("bb");
     }
 
+    public void aa(){
+        System.out.println("bb");
+    }
+
 }
