@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         int b = 3;
         System.out.println(a+b+"");
     }
-
+    public void aa(){
+        System.out.println("aa");
+    }
 }
